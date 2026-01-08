@@ -3,7 +3,12 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 자기소개 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 4년차 FE 개발자입니다.</li> </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 4년차 FE 개발자입니다.
+    </li>
+    저는 맡은 일을 끝까지 책임지고, 변화가 생겨도 업무 흐름을 정리해 안정적으로 해결하는 사람입니다.
+개발자로 일하며 작은 판단 하나가 사용자 경험에 직접적인 영향을 준다는 점을 몸소 경험해 왔습니다.
+이 경험을 바탕으로, 지금은 결과의 정확성과 책임이 중요한 역할에서 강점을 발휘하고자 합니다.
+    </div> 
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
